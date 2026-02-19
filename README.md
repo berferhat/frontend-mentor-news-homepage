@@ -28,7 +28,7 @@ A responsive news homepage built as a solution to the [Frontend Mentor](https://
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/frht-news-homepage.git
+git clone https://github.com/berferhat/frontend-mentor-news-homepage.git
 cd frht-news-homepage
 ```
 
@@ -36,15 +36,6 @@ cd frht-news-homepage
 
 - Double-click `index.html` to open in your browser, or  
 - Use a local server (e.g. Live Server) and open the URL it provides.
-
-## Screenshots
-
-_Add your own screenshots here._
-
-<!-- Example:
-![Desktop view](./assets/screenshots/desktop.png)
-![Mobile view](./assets/screenshots/mobile.png)
--->
 
 ## What I Learned
 
@@ -56,7 +47,3 @@ _Add your own screenshots here._
 
 - [Frontend Mentor — News homepage challenge](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
 - [Frontend Mentor](https://www.frontendmentor.io) — practice projects for front-end developers
-
-## License
-
-This project is for educational purposes and is based on a Frontend Mentor design.
